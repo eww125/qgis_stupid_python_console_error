@@ -1,1 +1,5 @@
-# qgis_stupid_python_console_error
+delete:
+
+`/Users/ewappel/Library/Preferences/org.qgis.QGIS2.plist`
+
+restart qgis
