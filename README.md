@@ -1,5 +1,5 @@
-delete:
+run this commend to delete the stupid file:
 
-`/Users/ewappel/Library/Preferences/org.qgis.QGIS2.plist`
+`rm -rf /Users/ewappel/Library/Preferences/org.qgis.QGIS2.plist`
 
 restart qgis
