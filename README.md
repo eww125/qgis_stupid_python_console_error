@@ -1,0 +1,1 @@
+# qgis_stupid_python_console_error
